@@ -17,3 +17,16 @@ REQUIREMENTS FOR CONSTRUCTION:
 - Arduino Uno or other microcontroller 
 
 FILES:
+- base.ai
+- bucketBase.ai
+- bucketExtendedWalls.ai
+- bucketRoof.ai
+- bucketWallsFinal.ai
+- motorMount.ai
+- motorRiser.ai
+- motorRiserServoMount.ai
+- screwHolster.ai
+- servoRiser.ai
+- funnel.stl
+- funnel.scad
+- SkittleSorter.ino
